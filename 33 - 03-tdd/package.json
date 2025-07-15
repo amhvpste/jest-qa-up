@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest",
-    "test:watch": "jest --watch --coverage false"
+    "test": "cls && jest",
+    "test:watch": "cls && jest --watch --coverage false"
   },
   "keywords": [],
   "author": "",
